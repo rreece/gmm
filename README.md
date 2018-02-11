@@ -5,7 +5,7 @@ gmm
 
 This sprint is exploring fitting gaussian mixture models (GMM) using sklearn.
 
-Ryan Reece  (<ryan.reece@cern.ch>)
+Ryan Reece  (<ryan.reece@cern.ch>)           
 Created: 2017-12-02
 
 See also
